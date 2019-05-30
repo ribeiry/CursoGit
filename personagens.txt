@@ -5,3 +5,5 @@ Thor
 Viuva Negra
 Doutor Estranho
 Guardiões das Galaxia
+Homem Aranha
+Capitã Marvel
